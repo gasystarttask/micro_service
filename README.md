@@ -1,2 +1,2 @@
 # micro_service
-Make something useful with senecajs
+Make something useful by using senecajs
